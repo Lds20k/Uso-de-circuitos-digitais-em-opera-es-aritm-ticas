@@ -1,7 +1,5 @@
 # **Uso de circuitos digitais em operações aritméticas**
 
----
-
 ## Justificativa 
 
 - Explicar o uso de circuitos lógicos em operações aritméticas 
@@ -11,8 +9,6 @@
 - Sanar as duvidas sobre circuitos lógicos aritméticos 
 
 - Demonstrar o uso de circuitos digitais em operações aritméticas
-
----
 
 ## Grupo
 
